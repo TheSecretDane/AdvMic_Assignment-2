@@ -1,0 +1,17 @@
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.pytxcode
+
+# Ignore code part
+#*.ipynb
+#*.py
+*.pytxcode
+*.csv
+__pycache__
